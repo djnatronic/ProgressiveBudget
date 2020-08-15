@@ -15,7 +15,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-var mongoose = require(‘mongoose’);
+
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/nathanbprogressivebudget');
 
 /* mongoose.connect("mongodb://localhost/nathanbprogressivebudget", {
