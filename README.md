@@ -1,4 +1,4 @@
-# 6 Weather App
+# 18 Progressive Budget
 
 ## Author: Nathan Bowdish
 ## Email:  djnatronic@gmail.com
@@ -6,10 +6,13 @@
 This app will allow you to check the weather of any city in the world<br/>
 
 ### Technologies Used
-HTML<br/>
-CSS<br/>
 Javascript<br/>
-AJAX<br/>
+Service Workers<br/>
+IndexedDB<br/>
+Express<br/>
+MongoDB<br/>
+Heroku<br/>
+
 
 
 
