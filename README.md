@@ -3,7 +3,7 @@
 ## Author: Nathan Bowdish
 ## Email:  djnatronic@gmail.com
 
-This app will allow you to check the weather of any city in the world<br/>
+This app will allow you to create a budget and save it locally if you are offline.<br/>
 
 ### Technologies Used
 Javascript<br/>
